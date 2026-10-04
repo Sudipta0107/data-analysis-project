@@ -5,7 +5,7 @@
 
 This project analyzes the impact of the **Wavecon Telecom 5G launch** on revenue, customer KPIs, city performance, and plan performance.
 
-The analysis was completed as part of the **Week 2 Codebasics Virtual Internship** with AtliQ Technologies, with a focus on turning telecom data into actionable business insights using **Power BI**.
+The analysis was completed as part of the **Week 2 Codebasics Virtual Internship** with AtliQ Technologies, with a focus on turning telecom data into actionable business insights using **Power BI**..
 
 ## 🎯 Business Objectives
 
@@ -196,7 +196,7 @@ https://app.powerbi.com/view?r=eyJrIjoiZjJlNTcwOTYtNmQzNy00NGUwLWIxMWMtMmM1YzNiZ
 ## 🎥 Project Presentation
 
 🔗 **Presentation Video:**
-https://youtu.be/YkyNDlAOgcM?si=1X-PwH4RVyj41gOX
+https://youtu.be/6na_34mHqNY
 
 ## 🙏 Acknowledgement
 
