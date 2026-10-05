@@ -196,7 +196,7 @@ https://app.powerbi.com/view?r=eyJrIjoiZjJlNTcwOTYtNmQzNy00NGUwLWIxMWMtMmM1YzNiZ
 ## 🎥 Project Presentation
 
 🔗 **Presentation Video:**
-https://youtu.be/6na_34mHqNY
+https://youtu.be/0KBUpAZrRsk
 
 ## 🙏 Acknowledgement
 
