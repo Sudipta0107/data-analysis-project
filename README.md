@@ -204,13 +204,10 @@ This project was completed as part of the **Codebasics Virtual Internship – We
 
 The project provided practical experience in **Power BI, data analysis, KPI evaluation, data visualization, and business storytelling**.
 
-## 👤 Author
-Sudipta Roy
-
 ## 🎥 Project Presentation
 
-🔗 **Presentation Video:**
-https://youtu.be/6na_34mHqNY
+🔗 **ppt link :**
+https://1drv.ms/p/c/91f80cf7b45e322f/IQAoebmu452oTLCcEGz5jfK-Af7-L4wIC_xsbEMy4F-BKnU?e=U1btua
 
 ## 🙏 Acknowledgement
 
@@ -220,7 +217,7 @@ The project provided practical experience in **Power BI, data analysis, KPI eval
 
 ## 👤 Author
 
-**Harsha Sharma**
+*Sudipta Roy
 
 * GitHub: https://github.com/Sudipta0107
 * LinkedIn:www.linkedin.com/in/sudipta-roy-078603219
